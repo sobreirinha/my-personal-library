@@ -1,1 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>My Personal Library</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Cabeçalho -->
+
+    <header>
+
+        <h1>My Personal Library</h1>
+
+        <input
+            type="search"
+            id="search"
+            placeholder="Pesquisar série...">
+
+    </header>
+
+    <!-- Conteúdo -->
+
+    <main>
+
+        <!-- Continuando -->
+
+        <section id="watching">
+
+            <div class="section-title">
+
+                <h2>📺 Continuando</h2>
+
+            </div>
+
+            <div
+                id="watching-carousel"
+                class="carousel">
+
+            </div>
+
+        </section>
+
+        <!-- Finalizadas -->
+
+        <section id="completed">
+
+            <div class="section-title">
+
+                <h2>✅ Finalizadas</h2>
+
+            </div>
+
+            <div
+                id="completed-carousel"
+                class="carousel">
+
+            </div>
+
+        </section>
+
+        <!-- Em lançamento -->
+
+        <section id="airing">
+
+            <div class="section-title">
+
+                <h2>🆕 Em lançamento</h2>
+
+            </div>
+
+            <div
+                id="airing-carousel"
+                class="carousel">
+
+            </div>
+
+        </section>
+
+        <!-- Encerradas -->
+
+        <section id="ended">
+
+            <div class="section-title">
+
+                <h2>🏁 Encerradas</h2>
+
+            </div>
+
+            <div
+                id="ended-carousel"
+                class="carousel">
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- Modal -->
+
+    <div
+        id="series-modal"
+        class="modal hidden">
+
+        <div class="modal-content">
+
+            <button
+                id="close-modal">
+
+                ✕
+
+            </button>
+
+            <div id="modal-body">
+
+                <!-- JavaScript -->
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
