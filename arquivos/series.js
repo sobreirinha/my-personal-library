@@ -12,7 +12,7 @@ const series = [
 
         categoria: "watching",
 
-        capa: "https://m.media-amazon.com/images/M/MV5BMmY2M2Y5YzQtODQ2Yy00ZDYwLWJkMzQtNTRkNjk2N2Q3ZjVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        capa: "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
 
         plataforma: "Max",
 
