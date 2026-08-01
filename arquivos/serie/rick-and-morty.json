@@ -1,0 +1,70 @@
+{
+  "id": 1,
+  "titulo": "Rick and Morty",
+  "imagem": "https://image.tmdb.org/t/p/w500/3cvBxz4y4a3gT5q9ZK7J7M8w7wX.jpg",
+  "status": "assistindo",
+  "plataforma": "Max",
+  "genero": [
+    "Animação",
+    "Comédia",
+    "Ficção Científica"
+  ],
+  "nota": 9,
+
+  "descricao": "As aventuras de Rick Sanchez, um cientista brilhante e excêntrico, e seu neto Morty Smith em viagens interdimensionais cheias de humor e perigos.",
+
+  "temporadas": [
+
+    {
+      "numero": 1,
+      "episodios": [
+
+        {
+          "numero": 1,
+          "titulo": "Pilot",
+          "assistido": true
+        },
+
+        {
+          "numero": 2,
+          "titulo": "Lawnmower Dog",
+          "assistido": true
+        },
+
+        {
+          "numero": 3,
+          "titulo": "Anatomy Park",
+          "assistido": true
+        },
+
+        {
+          "numero": 4,
+          "titulo": "M. Night Shaym-Aliens!",
+          "assistido": false
+        }
+
+      ]
+    },
+
+    {
+      "numero": 2,
+      "episodios": [
+
+        {
+          "numero": 1,
+          "titulo": "A Rickle in Time",
+          "assistido": false
+        },
+
+        {
+          "numero": 2,
+          "titulo": "Mortynight Run",
+          "assistido": false
+        }
+
+      ]
+    }
+
+  ]
+
+}
