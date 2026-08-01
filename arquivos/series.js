@@ -38,7 +38,7 @@ const series = [
 
         categoria: "watching",
 
-        capa: "https://m.media-amazon.com/images/M/MV5BNmQzODZjZGQtNjM0Mi00OGUxLWEwNmUtODQ2NjI5ZjE2M2M1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        capa: "https://upload.wikimedia.org/wikipedia/pt/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg",
 
         plataforma: "Netflix",
 
