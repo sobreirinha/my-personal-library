@@ -6,3 +6,4 @@ Biblioteca pessoal para organizar:
 - 🎬 Filmes
 
 Projeto desenvolvido para uso pessoal.
+Projeto desenvolvido junto com ChatGPT, com ideia inspirado com o falecido TV Time
