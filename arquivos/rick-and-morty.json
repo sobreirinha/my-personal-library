@@ -1,0 +1,518 @@
+{
+  "id": 6,
+  "titulo": "Rick and Morty",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg",
+  "plataforma": "Max",
+  "ano": 2013,
+  "generos": [
+    "Animação",
+    "Ficção Científica",
+    "Comédia"
+  ],
+  "sinopse": "Rick, um cientista brilhante e alcoólatra, leva seu neto Morty para aventuras perigosas através de universos paralelos.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Pilot",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Lawnmower Dog",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Anatomy Park",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "M. Night Shaym-Aliens!",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Meeseeks and Destroy",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Rick Potion #9",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Raising Gazorpazorp",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Rixty Minutes",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Something Ricked This Way Comes",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Close Rick-counters of the Rick Kind",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Ricksy Business",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "A Rickle in Time",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Mortynight Run",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Auto Erotic Assimilation",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Total Rickall",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Get Schwifty",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "The Ricks Must Be Crazy",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Big Trouble in Little Sanchez",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Interdimensional Cable 2",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Look Who's Purging Now",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "The Wedding Squanchers",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "The Rickshank Rickdemption",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Rickmancing the Stone",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Pickle Rick",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Vindicators 3",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "The Whirly Dirly Conspiracy",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Rest and Ricklaxation",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "The Ricklantis Mixup",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Morty's Mind Blowers",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "The ABCs of Beth",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "The Rickchurian Mortydate",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Edge of Tomorty",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "The Old Man and the Seat",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "One Crew over the Crewcoo's Morty",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Claw and Hoarder",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Rattlestar Ricklactica",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Never Ricking Morty",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Promortyus",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "The Vat of Acid Episode",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Childrick of Mort",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Star Mort Rickturn of the Jerri",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Mort Dinner Rick Andre",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Mortyplicity",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "A Rickconvenient Mort",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Rickdependence Spray",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Amortycan Grickfitti",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Rick & Morty's Thanksploitation Spectacular",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Gotron Jerrysis Rickvangelion",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Rickternal Friendshine",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Forgetting Sarick Mortshall",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Rickmurai Jack",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Solaricks",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Rick: A Mort Well Lived",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Bethic Twinstinct",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Night Family",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Final DeSmithation",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "JuRicksic Mort",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Full Meta Jackrick",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Analyze Piss",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "A Rick in King Mortur's Mort",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Ricktional Mortpoon's Rickmas Mortcation",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "How Poopy Got His Poop Back",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "The Jerrick Trap",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Air Force Wong",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "That's Amorte",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Unmortricken",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Rickfending Your Mort",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Wet Kuat Amortican Summer",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Rise of the Numbericons",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Mort: Ragnarick",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Fear No Mort",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 8,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Summer of All Fears",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Valkyrick",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "The Rick, The Mort & The Ugly",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "The Last Temptation of Jerry",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Cryo Mort a Rickver",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "The CuRicksous Case of Bethjamin Button",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Ricker than Fiction",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Nomortland",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Morty Daddy",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Hot Rick",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 9,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "There's Something About Morty",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Ricks Days, Seven Nights",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Rick Fu Hustle",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Ricker Runs Through It",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Jer Bud",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Erickerhead",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Mortgully: The Last Rickforest",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Rickuiem Mort a Dream",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Salute Your Morts",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Field of Dreams",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

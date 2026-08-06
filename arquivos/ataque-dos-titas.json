@@ -1,0 +1,469 @@
+{
+  "id": 2,
+  "titulo": "Ataque dos Titãs",
+  "status": "ended",
+  "finalizada": true,
+  "encerrada": true,
+  "imagem": "https://m.media-amazon.com/images/I/81y9zWjOxrL.jpg",
+  "plataforma": "Crunchyroll",
+  "ano": 2013,
+  "generos": [
+    "Ação",
+    "Fantasia Sombria",
+    "Drama",
+    "Mistério"
+  ],
+  "sinopse": "Após sua cidade ser destruída e sua mãe ser morta por titãs, Eren Jaeger jura limpar a Terra do último titã gigante que levou a humanidade à beira da extinção.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Para Você, em 2000 Anos: A Queda de Shiganshina, Parte 1",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Aquele Dia: A Queda de Shiganshina, Parte 2",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Uma Luz Brilhante no Desespero: A Humanidade Renasce, Parte 3",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Noite da Cerimônia de Formatura: A Humanidade Renasce, Parte 4",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Primeira Batalha: A Defesa de Trost, Parte 1",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "O Mundo Visto por Seus Olhos: A Defesa de Trost, Parte 2",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Pequena Lâmina: A Defesa de Trost, Parte 3",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Eu Posso Ouvir Seus Batimentos: A Defesa de Trost, Parte 4",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "O Desaparecimento do Braço Esquerdo: A Defesa de Trost, Parte 5",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Respostas: A Defesa de Trost, Parte 6",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Ídolo: A Defesa de Trost, Parte 7",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Ferida: A Defesa de Trost, Parte 8",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Desejo Primitivo: A Defesa de Trost, Parte 9",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "Ainda Não consigo Olhar nos Olhos Dele: A Batalha de Trost, Parte 10",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "Unidade de Operações Especiais: A Batalha de Trost, Parte 11",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "Escolha e Consequência: A Batalha de Trost, Parte 12",
+          "assistido": true
+        },
+        {
+          "numero": 17,
+          "titulo": "A Titã Fêmea: 57ª Missão de Reconhecimento Exterior, Parte 1",
+          "assistido": true
+        },
+        {
+          "numero": 18,
+          "titulo": "Floresta de Árvores Gigantes: 57ª Missão de Reconhecimento Exterior, Parte 2",
+          "assistido": true
+        },
+        {
+          "numero": 19,
+          "titulo": "Mordida: 57ª Missão de Reconhecimento Exterior, Parte 3",
+          "assistido": true
+        },
+        {
+          "numero": 20,
+          "titulo": "Erwin Smith: 57ª Missão de Reconhecimento Exterior, Parte 4",
+          "assistido": true
+        },
+        {
+          "numero": 21,
+          "titulo": "Desastre: 57ª Missão de Reconhecimento Exterior, Parte 5",
+          "assistido": true
+        },
+        {
+          "numero": 22,
+          "titulo": "Os Derrotados: 57ª Missão de Reconhecimento Exterior, Parte 6",
+          "assistido": true
+        },
+        {
+          "numero": 23,
+          "titulo": "Sorriso: Ataque a Stohess, Parte 1",
+          "assistido": true
+        },
+        {
+          "numero": 24,
+          "titulo": "A Caridade: Ataque a Stohess, Parte 2",
+          "assistido": true
+        },
+        {
+          "numero": 25,
+          "titulo": "Muralha: Ataque a Stohess, Parte 3",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Titã Bestial",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Retorno",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Para o Sudoeste",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Soldado",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "História",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Guerreiro",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Golpe, Arremesso, Captura",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Caçadores",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Abertura",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Filhos",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Carga",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Grito",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Sua Esquerda",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Desejo de Dor",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "A Insubmissão",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Rainha",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Reposta",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Pecado",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Desejo",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Fora dos Muros",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Regras do Jogo",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Amigos",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Espectador",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "A Noite da Retomada",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "A Cidade onde Tudo Começou",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "Lanças Trovão",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "Descenso",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "Jogo Perfeito",
+          "assistido": true
+        },
+        {
+          "numero": 17,
+          "titulo": "Herói",
+          "assistido": true
+        },
+        {
+          "numero": 18,
+          "titulo": "Sol Nascente",
+          "assistido": true
+        },
+        {
+          "numero": 19,
+          "titulo": "Por Trás da Muralha",
+          "assistido": true
+        },
+        {
+          "numero": 20,
+          "titulo": "Outro Lado da Muralha",
+          "assistido": true
+        },
+        {
+          "numero": 21,
+          "titulo": "O Atacante dos Titãs",
+          "assistido": true
+        },
+        {
+          "numero": 22,
+          "titulo": "Do Outro Lado da Muralha",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Do Outro Lado do Mar",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Trem de Meia-Noite",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "A Porta da Esperança",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "De Mãos Dadas",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Declaração de Guerra",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "O Titã de Martelo de Guerra",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Assalto",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Bala de Assassinato",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Valores Bravos",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Argumento Sólido",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Impostor",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Guiando",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Filhos da Floresta",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "Salvagem",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "Única Mensagem",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "Céu e Terra",
+          "assistido": true
+        },
+        {
+          "numero": 17,
+          "titulo": "Condenação",
+          "assistido": true
+        },
+        {
+          "numero": 18,
+          "titulo": "A Sneak Attack",
+          "assistido": true
+        },
+        {
+          "numero": 19,
+          "titulo": "De Toque Próximo",
+          "assistido": true
+        },
+        {
+          "numero": 20,
+          "titulo": "Memórias do Futuro",
+          "assistido": true
+        },
+        {
+          "numero": 21,
+          "titulo": "De 2000 Anos Atrás",
+          "assistido": true
+        },
+        {
+          "numero": 22,
+          "titulo": "Cumplicidade",
+          "assistido": true
+        },
+        {
+          "numero": 23,
+          "titulo": "Pôr do Sol",
+          "assistido": true
+        },
+        {
+          "numero": 24,
+          "titulo": "Pride",
+          "assistido": true
+        },
+        {
+          "numero": 25,
+          "titulo": "No Fim do Fim",
+          "assistido": true
+        },
+        {
+          "numero": 26,
+          "titulo": "Especial 1: O Estrondo",
+          "assistido": true
+        },
+        {
+          "numero": 27,
+          "titulo": "Especial 2: Nos Cemitérios dos Sonhos",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

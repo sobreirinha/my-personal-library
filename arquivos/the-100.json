@@ -1,0 +1,553 @@
+{
+  "id": 7,
+  "titulo": "The 100",
+  "status": "ended",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/27/The_100_Temporada_1_Poster.jpg",
+  "plataforma": "Netflix",
+  "ano": 2014,
+  "generos": [
+    "Ficção Científica",
+    "Drama",
+    "Aventura"
+  ],
+  "sinopse": "Setenta anos após uma guerra nuclear apocalíptica destruir a Terra, 100 jovens delinquentes são enviados de volta ao planeta para testar sua habitabilidade.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Pilot",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Earth Skills",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Earth Kills",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Murphy's Law",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Twilight's Last Gleaming",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "His Sister's Keeper",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Contents Under Pressure",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Day Trip",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Unity Day",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "I Am Death",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "The Calm",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "We Are Grounders (Part 1)",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "We Are Grounders (Part 2)",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "The 48",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Inclement Weather",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Reapercussions",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Many Happy Returns",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Human Trials",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Fog of War",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Long Live the Queen",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Spacewalker",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Remember Me",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Survival of the Fittest",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Coup de Grâce",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Rubicon",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Resurrection",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "Bodyguard of Lies",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "Blooddrinker",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "Bloodied",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Wanheda: Part One",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Wanheda: Part Two",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Join or Die",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Watch the Thrones",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Hakeldama",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Bitter Harvest",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Thirteen",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Terms and Conditions",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Stealing Fire",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Fallen",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Nevermore",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Demons",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Join or Die",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "Red Sky at Morning",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "Perverse Instantiation: Part 1",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "Perverse Instantiation: Part 2",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Echoes",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Painkiller",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "The Four Horsemen",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Lie Guarded",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "The Tinder Box",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "We Will Rise",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Gimme Shelter",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "God Complex",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "DNR",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Die All, Die Merely",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "The Other Side",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "The Chosen",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Praimfaya",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Eden",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Red Queen",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Sleeping Giants",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Pandora's Box",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Shifting Sands",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Exit Wounds",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Acceptable Losses",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "How We Get to Peace",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Sic Semper Tyrannis",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "The Warriors Will",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "The Dark Year",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Damocles: Part 1",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Damocles: Part 2",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Sanctum",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Red Sun Rising",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "The Children of Gabriel",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "The Face Behind the Glass",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Memento Mori",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Ashes to Ashes",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Nevermind",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "The Old Man and the Anomaly",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "What You Take With You",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Matryoshka",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Ashes to Ashes",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Adjustment Protocol",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "The Blood of Sanctum",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 7,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "From the Ashes",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "The Garden",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "False Gods",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Hesperides",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Welcome to Bardo",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Nakara",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "The Queen's Gambit",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Anaconda",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "The Flock",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "A Little Knowledge",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Etherea",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "The Stranger",
+          "assistido": true
+        },
+        {
+          "numero": 13,
+          "titulo": "Blood Giants",
+          "assistido": true
+        },
+        {
+          "numero": 14,
+          "titulo": "A Sort of Homecoming",
+          "assistido": true
+        },
+        {
+          "numero": 15,
+          "titulo": "The Dying of the Light",
+          "assistido": true
+        },
+        {
+          "numero": 16,
+          "titulo": "The Last War",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

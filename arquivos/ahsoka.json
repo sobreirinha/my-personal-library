@@ -1,0 +1,109 @@
+{
+  "id": 17,
+  "titulo": "Ahsoka",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://lumiere-a.akamaihd.net/v1/images/ahsoka_teaser_digital_ka_v7_lg_9833515a.jpeg?region=0,0,1688,2500",
+  "plataforma": "Disney+",
+  "ano": 2023,
+  "generos": [
+    "Ficção Científica",
+    "Aventura",
+    "Ação",
+    "Fantasia"
+  ],
+  "sinopse": "Ambientada após a queda do Império, a ex-Jedi Ahsoka Tano investiga uma nova ameaça emergente que paira sobre uma galáxia vulnerável.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Parte Um: Mestre e Aprendiz",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Parte Dois: A Tocha e a Corrente",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Parte Três: Hora de Voar",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Parte Quatro: Jedi Caída",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Parte Cinco: Um Guia das Sombras",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Parte Seis: Far Beyond",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Parte Sete: Sonhos e Loucura",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Parte Oito: A Jedi, a Bruxa e o Senhor da Guerra",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

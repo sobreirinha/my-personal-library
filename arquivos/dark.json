@@ -1,0 +1,164 @@
+{
+  "id": 4,
+  "titulo": "Dark",
+  "status": "ended",
+  "finalizada": true,
+  "encerrada": true,
+  "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayHS_bpVocBNEWeTR9SfuWhZ1ih8eYeukUE1hBmhH5sQ6ByOKz-iLXpY&s=10",
+  "plataforma": "Netflix",
+  "ano": 2017,
+  "generos": [
+    "Ficção científica",
+    "Mistério",
+    "Drama",
+    "Suspense"
+  ],
+  "sinopse": "O desaparecimento de uma criança em uma cidade alemã com uma história misteriosa e dupla vida expõe os segredos de quatro famílias enquanto elas buscam por uma resposta. A trama se desdobra em um mistério que abrange três gerações.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Segredos",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Lugar Desconhecido",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Passado e Presente",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Miasmas",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Verdades",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Sic Mundus Creatus Est",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Esquina Cega",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Em Onde Semeas, Colherás",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Tudo é Agora",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Alfa e Ômega",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Os Originais",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Matéria Escura",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Fantasmas",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Os Viajantes",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Perdido e Encontrado",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Uma Luz sem Fim",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Diabo",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Fim e o Início",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Bouquet de Noces",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Os Sobreviventes",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Adão e Eva",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Origem",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Vida e Morte",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Luz e Sombra",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Entre o Tempo",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Paraíso",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

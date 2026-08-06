@@ -1,0 +1,109 @@
+{
+  "id": 19,
+  "titulo": "O Pacificador",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDXo_83sylJ3GFs9ug2mbu7mu7IW2w3DBuna-0tyr4Q&s",
+  "plataforma": "HBO Max",
+  "ano": 2022,
+  "generos": [
+    "Ação",
+    "Comédia",
+    "Ficção Científica",
+    "Super-herói"
+  ],
+  "sinopse": "Acompanha as origens do Pacificador, um homem que acredita na paz a qualquer preço, não importa quantas pessoas ele tenha que matar para alcançá-la, após os eventos de O Esquadrão Suicida.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Uma Noite de Jogos Infernal",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Melhores Amigos para Sempre",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Bode Expiatório",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Meninos de Macaco",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Macacos Me Mordam",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Prisioneiros da Vingança",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Parada na Vaca",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "A Vaca Tinha Que Morrer",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

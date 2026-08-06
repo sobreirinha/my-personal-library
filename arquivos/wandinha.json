@@ -1,0 +1,109 @@
+{
+  "id": 24,
+  "titulo": "Wandinha",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BY2E1NDI5OWEtODJmYi00Nzg2LWI4MjUtODFiMTU2YWViOTU3XkEyXkFqcGc@._V1_.jpg",
+  "plataforma": "Netflix",
+  "ano": 2022,
+  "generos": [
+    "Fantasia",
+    "Comédia Sombria",
+    "Mistério",
+    "Sobrenatural"
+  ],
+  "sinopse": "Inteligente, sarcástica e sem a menor empatia, Wandinha Addams investiga uma onda de assassinatos enquanto faz novos amigos e inimigos na Escola Nunca Mais.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Quarta-feira é um dia sombrio",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "W é de Woe (Desgraça)",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Amizade, Infortúnio e Dor",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Wandinha de Quarta-feira ao Vivo",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Quem colhe ventos, tempestade colhe",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Conhecer, Amar e Odiar",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Um dilema sombrio",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Fora das sombras, a tempestade",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Mais desgosto",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Confronto",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Chamado da natureza",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Se estas paredes falassem",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Hyde escondido",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Conhece a ti mesmo",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "De olho no dinheiro",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "É guerra!",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

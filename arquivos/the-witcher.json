@@ -1,0 +1,199 @@
+{
+  "id": 22,
+  "titulo": "The Witcher",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/I/91XdNTAoguL.jpg",
+  "plataforma": "Netflix",
+  "ano": 2019,
+  "generos": [
+    "Fantasia",
+    "Ação",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "Geralt de Rivia, um mutante caçador de monstros, viaja em busca de seu destino por um mundo turbulento onde as pessoas costumam ser mais cruéis que asbestas.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Começo do Fim",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Quatro Marcas",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Lua da Traição",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Banquetes, Bastardos e Enterros",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Desejos Engarrafados",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Espécies Raras",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Antes de uma Queda",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Muito Mais",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Um Grão de Veracidade",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Kaer Morhen",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Perdas",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Inteligência Redaniana",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Dê as Costas",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Querido Amigo...",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Voleth Meir",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Família",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Shaerrawedd",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Invisível",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Reunião",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "O Convite",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "A Arte da Ilusão",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Todo mundo tem um plano até levar um soco na cara",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Do Fogo para a Frigideira",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Custo do Caos",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Que Não Te Mata Te Deixa Mais Forte",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Sonho de um Desejo Realizado",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Provação por Fogo",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Um Sermão de Sobrevivência",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "A Alegria da Culinária",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Crepúsculo do Lobo",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Que Eu Amo Eu Não Carrego",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Batismo de Fogo",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

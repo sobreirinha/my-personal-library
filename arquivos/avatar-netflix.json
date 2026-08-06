@@ -1,0 +1,103 @@
+{
+  "id": 3,
+  "titulo": "Avatar: O Último Mestre do Ar",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b6/Avatar_The_Last_Airbender_2024_series_poster.jpg",
+  "plataforma": "Netflix",
+  "ano": 2024,
+  "generos": [
+    "Fantasia",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "Um jovem dobrador de ar chamado Aang descobre que é o Avatar, o único capaz de dominar os quatro elementos e restaurar o equilíbrio do mundo.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Aang",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Warriors",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Omashu",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Into the Dark",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Spirited Away",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Masks",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "The North",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Legends",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Somewhere Safe",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "A Fight, Once Begun",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "City of Walls and Secrets",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "The Water Falls, the Stones Emerge",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Ten Thousand Things",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "The Parable of the Two Dragons",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Something Broken",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 23,
+  "titulo": "Pluribus",
+  "status": "start",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://image.tmdb.org/t/p/original/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg",
+  "plataforma": "Apple TV+",
+  "ano": 2025,
+  "generos": [
+    "Ficção Científica",
+    "Drama",
+    "Thriller Psicológico",
+    "Humor Negro"
+  ],
+  "sinopse": "Uma escritora de romances que é imune a um vírus alienígena precisa lidar com o resto da humanidade transformada em uma mente coletiva pacífica e contente, enquanto busca uma forma de reverter a situação.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Episódio 9",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

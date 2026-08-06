@@ -1,0 +1,109 @@
+{
+  "id": 21,
+  "titulo": "The Last of Us",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BYWI3ODJlMzktY2U5NC00ZjdlLWE1MGItNWQxZDk3NWNjN2RhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "plataforma": "HBO Max",
+  "ano": 2023,
+  "generos": [
+    "Drama",
+    "Aventura",
+    "Ficção Científica",
+    "Terror"
+  ],
+  "sinopse": "Após uma pandemia global destruir a civilização, um sobrevivente endurecido chamado Joel é contratado para contrabandear Ellie, uma garota de 14 anos, para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e dolorosa.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Quando Você Estiver Perdido na Escuridão",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Infectados",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Muito, Muito Tempo",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Por Favor, Não Saia de Mim",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Resistir e Sobreviver",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Parentesco",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Que Deixamos Para Trás",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Quando Somos Em Necessidade",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Procure a Luz",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Future Days",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Through the Valley",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "The Path",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Day One",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Feel Her Love",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "The Price",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Convergence",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

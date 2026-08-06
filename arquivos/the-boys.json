@@ -1,0 +1,244 @@
+{
+  "id": 8,
+  "titulo": "The Boys",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/I/71mdM0xPT+L._AC_UF894,1000_QL80_.jpg",
+  "plataforma": "Prime Video",
+  "ano": 2019,
+  "generos": [
+    "Ação",
+    "Comédia dramática",
+    "Ficção científica",
+    "Sátira"
+  ],
+  "sinopse": "The Boys é uma visão irreverente e subversiva do que acontece quando os super-heróis, que são tão populares quanto celebridades, corrompem seus superpoderes em vez de usá-los para o bem. É uma luta sem trégua entre os vigilantes conhecidos como 'The Boys' e os Sete, apoiados pela Vought.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Regra do Jogo",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Chato para Caralho",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Obediência",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "As Fêmeas da espécie",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Boa para o Alma",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Os Inocentes",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Auto da Compadecida",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Encontrado",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Com a Coragem Inteira",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Preparação para a Corrida",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Mente Cautelosa",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Nada como em Casa",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Onde Está o Trovão?",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Porta Sangrenta",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Açougueiro, o Padeiro, o Fabricante de Candelabros",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Que Eu Sinto",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Pagar de Bom Moço",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "O Único Homem no Céu",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Tirinha de Tarzan",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Glorioso Plano de Aniversário",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Queima-Roupa",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Herogasmo",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Aqui Vai uma Luz para guiar sua saída",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Três Anjos Desconhecidos",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Departamento de Jogos Psicológicos",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "A Vida Me Ensina",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Manter a Calma e Tomar o Controle",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Sabedoria do Ancião",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Falsos Amigos",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Sujo e Mal Amado",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "A Insustentável Leveza do Ser",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "A Loja do Terror",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Fifteen Inches of Sheer Dynamite",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Teenage Kix",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Every One of You Sons of Bitches",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "King of Hell",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "One-Shots",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Though the Heavens Fall",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "The Frenchman, the Female, and the Man Called Mother's Milk",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Blood and Bone",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

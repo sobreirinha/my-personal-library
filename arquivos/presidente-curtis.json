@@ -1,0 +1,74 @@
+{
+  "id": 15,
+  "titulo": "Presidente Curtis",
+  "status": "start",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/S/pv-target-images/04e52b20474e22ea442c8aa394932ee7cfb916a0013e842e4e19389a931de6ff.jpg",
+  "plataforma": "Max",
+  "ano": 2026,
+  "generos": [
+    "Animação",
+    "Comédia",
+    "Ficção Científica",
+    "Aventura"
+  ],
+  "sinopse": "Derivada de Rick and Morty, a série acompanha o presidente Andre Curtis e sua equipe de assessores lidando com crises bizarras que Rick Sanchez ignoraria, indo de diplomacia interdimensional a fenômenos paranormais e investigações criptídicas.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Piloto",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Crise na Zona Neutra",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "O Monstro do Pântano Executivo",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Negociações de Outro Mundo",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Gabinete Paranormal",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "A Conspiração do Tempo",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Operação Criptídeo",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Impeachment Dimensional",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "O Assessor Fantasma",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Estado de Emergência Cósmica",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

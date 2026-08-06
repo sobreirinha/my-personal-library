@@ -1,0 +1,64 @@
+{
+  "id": 11,
+  "titulo": "O Problema dos 3 Corpos",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BMjIzMWI3N2ItNjVjYS00ZDJhLWI1ZDAtOTQ4M2NlZGIxODA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "plataforma": "Netflix",
+  "ano": 2024,
+  "generos": [
+    "Ficção Científica",
+    "Drama",
+    "Aventura",
+    "Mistério"
+  ],
+  "sinopse": "A decisão de uma jovem na China dos anos 1960 ecoa pelo espaço e pelo tempo até o presente, onde um grupo de cientistas brilhantes precisa enfrentar a maior ameaça da história da humanidade.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Contagem Regressiva",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Costa Vermelha",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Destruidor de Mundos",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Nosso Senhor",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Dia do Julgamento",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "As Estrelas, Nosso Destino",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Apenas Avante",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Faccionistas",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

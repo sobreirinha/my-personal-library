@@ -1,0 +1,238 @@
+{
+  "id": 28,
+  "titulo": "Star Trek: Strange New Worlds",
+  "status": "watching",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BOWY1Y2ZlNzctMzIwMi00NTM3LWJiNDUtMTZmYWY0Y2NmZmE2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+  "plataforma": "Paramount+",
+  "ano": 2022,
+  "generos": [
+    "Ficção Científica",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "O Capitão Christopher Pike, a ciência-oficial Spock e a Número Um exploram novos mundos ao redor da galáxia a bordo da USS Enterprise, na década anterior aos eventos da série original de Star Trek.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Strange New Worlds",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Children of the Comet",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Ghosts of Illyria",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Memento Mori",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Spak Amok",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Lift Us Where Suffering Cannot Reach",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "The Serene Squall",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "The Elysian Kingdom",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "All Those Who Wander",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "A Quality of Mercy",
+          "assistido": false
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "The Broken Circle",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Ad Astra per Aspera",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Tomorrow and Tomorrow and Tomorrow",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Among the Lotus Eaters",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Charades",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Lost in Translation",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Those Old Scientists",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Under the Cloak of War",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Subspace Rhapsody",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Hegemony",
+          "assistido": false
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Hegemony, Part II",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Wedding Bell Blues",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Shuttle to Kenfori",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "A Space Adventure Hour",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Through the Lens of Time",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "The Sehlat Who Ate Its Tail",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "What Is Starfleet?",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Four-and-a-Half Vulcans",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Terrarium",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "New Life and New Civilizations",
+          "assistido": false
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Valles Marineris",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "The Griffin Incident",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Human Best Friend",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "A Case of Chiaroscuro",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Level-Five Transporter Accident",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Off-Hour",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Like Chronitons Through the Hourglass",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Orders of Magnitude",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Once La'An a Time",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Tomorrow's Enterprise",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

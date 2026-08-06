@@ -1,0 +1,89 @@
+{
+  "id": 5,
+  "titulo": "Gen V",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BYWU4YTljYmItYjczNS00MWY0LWI3NjctZjJhYjU3NWNmNWZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "plataforma": "Prime Video",
+  "ano": 2023,
+  "generos": [
+    "Ação",
+    "Comédia dramática",
+    "Ficção científica",
+    "Super-herói"
+  ],
+  "sinopse": "Do universo de The Boys, Gen V acompanha os jovens heróis da Universidade Godolkin, administrada pela Vought, enquanto testam seus limites físicos, morais e sexuais, competindo pelo topo do ranking da faculdade e uma chance de entrar para os Sete.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        { "numero": 1, "titulo": "Universidade Godolkin", "assistido": true},
+        {"numero": 2, "titulo": "Primeiro Dia", "assistido": true},
+        { "numero": 3,"titulo": "#LembredoBrink", "assistido": true},
+        {"numero": 4,"titulo": "A Verdade Toda", "assistido": true},
+        {"numero": 5,"titulo": "Bem-Vindos ao Clube do Monstro", "assistido": true},
+        {
+  "numero": 6,
+  "titulo": "Jumanji",
+  "assistido": true
+        },
+        {
+  "numero": 7,
+  "titulo": "Bons Rapazes",
+  "assistido": true
+        },
+        {
+  "numero": 8,
+  "titulo": "Os Guardiões de Godolkin",
+  "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+  "numero": 1,
+  "titulo": "New Year, New U",
+  "assistido": true
+        },
+        {
+  "numero": 2,
+  "titulo": "Justice Never Forgets",
+  "assistido": true
+        },
+        {
+  "numero": 3,
+  "titulo": "H Is for Human",
+  "assistido": true
+        },
+        {
+  "numero": 4,
+  "titulo": "Bags",
+  "assistido": true
+        },
+        {
+  "numero": 5,
+  "titulo": "The Kids Are Not All Right",
+  "assistido": true
+        },
+        {
+  "numero": 6,
+  "titulo": "Cooking Lessons",
+  "assistido": true
+        },
+        {
+  "numero": 7,
+  "titulo": "Hell Week",
+  "assistido": true
+        },
+        {
+  "numero": 8,
+  "titulo": "Trojan",
+  "assistido": true
+        }
+      ]
+    }
+  ]
+}

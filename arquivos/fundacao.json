@@ -1,0 +1,182 @@
+{
+  "id": 14,
+  "titulo": "Fundação",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BMzY5OGJhYzItNGQyOS00NmU3LWFhOWMtNGY1OGVlNTlmYjc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "plataforma": "Apple TV+",
+  "ano": 2021,
+  "generos": [
+    "Ficção Científica",
+    "Drama"
+  ],
+  "sinopse": "Um grupo de exilados em uma cruzada para salvar a humanidade e reconstruir a civilização durante a queda do Império Galáctico, baseada na obra clássica de Isaac Asimov.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Imperador Indigno",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Preparando para Tomar",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Os Fantasmas da Matemática",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Barreiras",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Ao Despertar",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Morte e a Donzela",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Mistérios e Mártires",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Missing Piece",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "A Crise Primeira",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "O Salto",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Em Paz com a Sombra",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "As Confissões de um Rei",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Pretos Caçadores",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "A Escolha do Destino",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "O Despertar",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Por amor a um Deus",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Ela Ficou com os Olhos Tristes",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "A Rainha dos Mercadores",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Pelo Fogo",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Dias de Queda, Noites de Fim",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Uma Canção para o Fim de Todas as Coisas",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Sombras na Matemática",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Quando um Livro te Encontra",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "O Peso da Sua Consideração",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Onde os Tiranos Passam a Eternidade",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Forma do Tempo",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Fim da Fundação",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Pele em Jogo",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Os Caminhos que nos Escolhem",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "A Escuridão",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

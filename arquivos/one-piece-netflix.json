@@ -1,0 +1,110 @@
+{
+  "id": 12,
+  "titulo": "One Piece: A Série",
+  "status": "watching",
+  "finalizada": false,
+  "encerrada": false,
+  "start": false,
+  "imagem": "https://preview.redd.it/new-one-piece-netflix-poster-v0-3xnakn2c82jb1.jpg?auto=webp&s=61a7077257635901f3f1ab6954f0d17dd27ad6fe",
+  "plataforma": "Netflix",
+  "ano": 2023,
+  "generos": [
+    "Ação",
+    "Aventura",
+    "Fantasia",
+    "Comédia"
+  ],
+  "sinopse": "O jovem pirata Monkey D. Luffy zarpa com sua tripulação dos Chapéus de Palha para encontrar o lendário tesouro One Piece e se tornar o Rei dos Piratas.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Amanhecer do Romance",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "O Homem do Chapéu de Palha",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Não Conte Histórias",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Os Piratas Estão Chegando",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Coma no Baratie!",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "O Chef e o Garoto Faz-Tudo",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "A Menina com a Tatuagem de Peixe-Serra",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Pior do Oriente",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Começo e o Fim",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Caça às Ballenas",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Negócios em Whiskey Peak",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Confusão em Little Garden",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Cera Entra, Cera Sai",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Nami Querida",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "A Honra da Renna",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Medo e Ódio no Reino de Drum",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

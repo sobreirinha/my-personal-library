@@ -1,0 +1,109 @@
+{
+  "id": 18,
+  "titulo": "Fallout",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://preview.redd.it/new-promotional-images-have-been-released-for-fallout-v0-mnxx9k86xvwf1.png?width=640&crop=smart&auto=webp&s=1a994930c8f7e5009b0b6dcd0d508e787d5e88f7",
+  "plataforma": "Amazon Prime Video",
+  "ano": 2024,
+  "generos": [
+    "Ficção Científica",
+    "Ação",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "Em um futuro pós-apocalíptico onde a Terra foi devastada por uma guerra nuclear, os habitantes de abrigos subterrâneos conhecidos como Vaults precisam retornar à superfície e enfrentar um mundo brutal, complexo e altamente perigoso.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Fim",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "O Alvo",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "A Cabeça",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Os carniçais",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "O Passado",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Armadilha",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "A Rádio",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Princípio",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "The Innovator",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "The Golden Rule",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "The Profligate",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "The Demon in the Snow",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "The Wrangler",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "The Other Player",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "The Handoff",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "The Strip",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

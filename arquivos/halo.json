@@ -1,0 +1,114 @@
+{
+  "id": 26,
+  "titulo": "Halo",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/I/71RIPBlSTUL.jpg",
+  "plataforma": "Paramount+",
+  "ano": 2022,
+  "generos": [
+    "Ficção Científica",
+    "Ação",
+    "Aventura",
+    "Guerra"
+  ],
+  "sinopse": "Dramatização de um conflito épico do século XXVI entre a humanidade e uma ameaça alienígena conhecida como Covenant, unindo personagens avançados com histórias profundas de ação, aventura e uma visão rica do futuro.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Contato",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Inofensivo",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Reunião",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Infiltrado",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Reckoning",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Solitário",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Herança",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Aliança",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Transcendência",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Sanctuary",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Sword",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Visegrado",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Reach",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Alerta Vermelho",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "O Desfiladeiro",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Terminus",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Halo",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

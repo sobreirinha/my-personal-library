@@ -1,0 +1,89 @@
+{
+  "id": 13,
+  "titulo": "Loki",
+  "status": "ended",
+  "finalizada": true,
+  "encerrada": true,
+  "imagem": "https://www.europanet.com.br/image_gen/resizeimg.php?cod_produto=4500603",
+  "plataforma": "Disney+",
+  "ano": 2021,
+  "generos": [
+    "Ficção Científica",
+    "Aventura",
+    "Fantasia",
+    "Ação"
+  ],
+  "sinopse": "O Deus da Trapaça retoma seu papel como o Deus das Histórias após os eventos de Vingadores: Ultimato, encontrando-se em uma aventura que mexe com o tempo através da Autoridade de Variância Temporal (AVT).",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Um Propósito Glorioso",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "A Variante",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Lamentis",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "O Evento Nexus",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Viagem ao Mistério",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Por Todos os Tempos. Sempre.",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Oroboros",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Quebrando a Caixa",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "1893",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "O Coração da AVT",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Ciência/Ciência",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Glorioso Propósito",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

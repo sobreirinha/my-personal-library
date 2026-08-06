@@ -1,0 +1,153 @@
+{
+  "id": 10,
+  "titulo": "O Mandaloriano",
+  "status": "ended",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://lumiere-a.akamaihd.net/v1/images/poster_mandalorian_season3_4e4bf4e0.jpeg?region=0,0,800,1000",
+  "plataforma": "Disney+",
+  "ano": 2019,
+  "generos": [
+    "Ficção Científica",
+    "Ação",
+    "Aventura"
+  ],
+  "sinopse": "As viagens de um caçador de recompensas solitário pelos confins da galáxia, longe da autoridade da Nova República.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 1: O Mandaloriano",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 2: A Criança",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 3: O Pecado",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 4: O Santuário",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 5: O Pistoleiro",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 6: O Prisioneiro",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 7: O Acerto de Contas",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 8: Redenção",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 9: O Marechal",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 10: A Passageira",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 11: A Heiress",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 12: O Cerco",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 13: A Jedi",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 14: A Tragédia",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 15: O Crente",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 16: O Resgate",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Capítulo 17: O Apóstata",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Capítulo 18: As Minas de Mandalore",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Capítulo 19: O Conversor",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Capítulo 20: O Expulso",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Capítulo 21: O Pirata",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Capítulo 22: Armas Sobressalentes",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Capítulo 23: Os Espiões",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Capítulo 24: O Retorno",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": 20,
+  "titulo": "Silo",
+  "status": "watching",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BYWM0NmU3ODMtMTIzMS00MTc2LTg3YzItODhjYWUyZmVmNzdkXkEyXkFqcGc@._V1_.jpg",
+  "plataforma": "Apple TV+",
+  "ano": 2023,
+  "generos": [
+    "Ficção Científica",
+    "Drama",
+    "Mistério",
+    "Distopia"
+  ],
+  "sinopse": "Em um futuro ruinoso e tóxico, milhares de pessoas vivem em um silo subterrâneo gigante. Depois que o xerife quebra uma regra fundamental e os residentes morrem misteriosamente, a engenheira Juliette começa a desvendar segredos chocantes sobre o silo.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Dia da Liberdade",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "A Escolha de Holston",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Máquinas",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Verdade",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "O Filho do Zelador",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Relíquia",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Os Guardiões da Chama",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Hanna",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "A Fuga",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Lá Fora",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "A Engenheira",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Ordem",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Solo",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "O Harmônio",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Descida",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Barricadas",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Mergulho",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Livro de Quinn",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "ASalvaguarda",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "No Fogo",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Quem é Você?",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Está Tabela",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Uma Web Sombria",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Faça o que Fizer, Não Vá Para Casa",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Memória",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "A Viagem",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Rádio",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Gosma Cinzenta",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Despedida",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Troy",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

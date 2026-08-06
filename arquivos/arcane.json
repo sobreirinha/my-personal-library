@@ -1,0 +1,119 @@
+{
+  "id": 9,
+  "titulo": "Arcane",
+  "status": "ended",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/I/717AT7AC-ZL._AC_UF1000,1000_QL80_.jpg",
+  "plataforma": "Netflix",
+  "ano": 2021,
+  "generos": [
+    "Animação",
+    "Ação",
+    "Ficção Científica",
+    "Drama"
+  ],
+  "sinopse": "Em meio ao conflito entre as cidades-gemas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Bem-Vindos ao Play",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Alguns Mistérios Devem Continuar Sem Resposta",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "A Violência Necessária para a Mudança",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Felizes para Sempre",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Todo Mundo Quer Ser Meu Fã",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Quando as Paredes Desabam",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "O Salvador",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Água e Óleo",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "O Monstro que Você Criou",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Pesadelos contra Massas Orgânicas",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Me Verá Ajoelhar",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Finalmente Descobri o Meu Nome",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "PnF",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Guerras Nacionais",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Mensagem na Garrafa",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Apenas um Aceno de Adeus",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "A Correnteza Mais Forte",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "PoE",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

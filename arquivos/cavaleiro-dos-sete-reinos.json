@@ -1,0 +1,53 @@
+{
+  "id": 13,
+  "titulo": "O Cavaleiro dos Sete Reinos",
+  "status": "start",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://br.web.img2.acsta.net/c_310_420/img/19/6f/196f657665f846bb07a51e78a638f727.jpg",
+  "plataforma": "Max",
+  "ano": 2026,
+  "generos": [
+    "Fantasia",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "Cerca de um século antes dos eventos de Game of Thrones, dois improváveis heróis vagam por Westeros: um cavaleiro ingênuo, porém corajoso, Sor Duncan, o Alto, e seu diminuto escudeiro, Egg.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Cavaleiro Andarilho",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Carne de Sol Dura",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "O Escudeiro",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Sete",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Em Nome da Mãe",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "O Amanhã",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

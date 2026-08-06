@@ -1,0 +1,118 @@
+{
+  "id": 1,
+  "titulo": "A Casa do Dragão",
+  "status": "watching",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/House_of_the_Dragon-_Season_1B.jpg/revision/latest/scale-to-width/360?cb=20220923010008",
+  "plataforma": "Max",
+  "ano": 2022,
+  "generos": [
+    "Fantasia",
+    "Aventura",
+    "Drama"
+  ],
+  "sinopse": "A história da Casa Targaryen se passa 200 anos antes dos eventos de Game of Thrones, retratando a guerra civil conhecida como a Dança dos Dragões.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Os Herdeiros do Dragão",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "O Príncipe Rebelde",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Segundo de Seu Nome",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Rei do Mar Estreito",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Iluminamos o Caminho",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "A Princesa e a Rainha",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Driftmark",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "O Senhor das Marés",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "O Conselho Verde",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "A Rainha Preta",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Um Filho por um Filho",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Rhaenyra, a Cruel",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "O Moinho em Chamas",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "O Dragão Vermelho e o Dourado",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Regente",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Caçadores de Brumas",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "A Semeadura Vermelha",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "A Rainha que Foi",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}

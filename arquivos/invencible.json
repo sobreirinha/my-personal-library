@@ -1,0 +1,200 @@
+{
+  "id": 16,
+  "titulo": "Invincible",
+  "status": "completed",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/I/71dCIpL6RjL.jpg",
+  "plataforma": "Prime Video",
+  "ano": 2021,
+  "generos": [
+    "Animação",
+    "Ação",
+    "Super-heróis",
+    "Drama",
+    "Ficção Científica"
+  ],
+  "sinopse": "Mark Grayson é um adolescente comum, exceto pelo fato de seu pai ser o super-herói mais poderoso da Terra. Ao desenvolver seus próprios poderes, Mark descobre que o legado de seu pai é muito mais sombrio do que imaginava.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "It's About Time",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "Here Goes Nothing",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Who You Calling Ugly?",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Neil Armstrong, Eat Your Heart Out",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "That Actually Hurt",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "You Look Kinda Dead",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "We Need To Talk",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Where I Really Come From",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "A Lesson for Your Next Life",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "In About Six Hours I Lose My Virginity to a Fish",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "This Missive, This Machination!",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "It's Been a While",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "This Must Come as a Shock",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "It's Not That Simple",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "I'm Not Going Anywhere",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "I Thought You Were Stronger",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "You're Not Laughing Now",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "A Deal With The Devil",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "You Want A Real Costume, Right?",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "You Were My Hero",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "This Was Supposed To Be Easy",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "All I Can Say Is I'm Sorry",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "What Have I Done?",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "I Thought You'd Never Shut Up",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Making the World a Better Place",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "I'll Give You the Grand Tour",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "I Gotta Get Some Air",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Hurm",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Give Us a Moment",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "You Look Horrible",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Don't Do Anything Rash",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Don't Leave Me Hanging Here",
+          "assistido": true
+        }
+      ]
+    }
+  ]
+}

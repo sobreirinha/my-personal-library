@@ -1,0 +1,149 @@
+{
+  "id": 23,
+  "titulo": "Trigun Stampede",
+  "status": "watching",
+  "finalizada": false,
+  "encerrada": false,
+  "imagem": "https://m.media-amazon.com/images/M/MV5BNDg0ODE4MTgtYWU0Ni00NTQwLTkwNzQtYzZmYjQxMzg2NzdlXkEyXkFqcGc@._V1_.jpg",
+  "plataforma": "Crunchyroll",
+  "ano": 2023,
+  "generos": [
+    "Animação",
+    "Ação",
+    "Ficção Científica",
+    "Aventura"
+  ],
+  "sinopse": "Vash the Stampede é um pistolizar pacífico com uma recompensa exorbitante por sua cabeça, o que atrai caçadores de recompensas e repórteres em busca de uma grande história por todo o planeta desértico de Noman's Land.",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Noman's Land",
+          "assistido": true
+        },
+        {
+          "numero": 2,
+          "titulo": "O Homem Correndo",
+          "assistido": true
+        },
+        {
+          "numero": 3,
+          "titulo": "Luz Brilhante, Brilhe através da Escuridão",
+          "assistido": true
+        },
+        {
+          "numero": 4,
+          "titulo": "Famintos!",
+          "assistido": true
+        },
+        {
+          "numero": 5,
+          "titulo": "Filho da Bênção",
+          "assistido": true
+        },
+        {
+          "numero": 6,
+          "titulo": "Era uma Vez em Hopeland",
+          "assistido": true
+        },
+        {
+          "numero": 7,
+          "titulo": "Wolfwood",
+          "assistido": true
+        },
+        {
+          "numero": 8,
+          "titulo": "Nosso Lar",
+          "assistido": true
+        },
+        {
+          "numero": 9,
+          "titulo": "Millions Knives",
+          "assistido": true
+        },
+        {
+          "numero": 10,
+          "titulo": "Humanidade",
+          "assistido": true
+        },
+        {
+          "numero": 11,
+          "titulo": "Para um Novo Mundo",
+          "assistido": true
+        },
+        {
+          "numero": 12,
+          "titulo": "Meio-Dia em July",
+          "assistido": true
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Episódio 1",
+          "assistido": false
+        },
+        {
+          "numero": 2,
+          "titulo": "Episódio 2",
+          "assistido": false
+        },
+        {
+          "numero": 3,
+          "titulo": "Episódio 3",
+          "assistido": false
+        },
+        {
+          "numero": 4,
+          "titulo": "Episódio 4",
+          "assistido": false
+        },
+        {
+          "numero": 5,
+          "titulo": "Episódio 5",
+          "assistido": false
+        },
+        {
+          "numero": 6,
+          "titulo": "Episódio 6",
+          "assistido": false
+        },
+        {
+          "numero": 7,
+          "titulo": "Episódio 7",
+          "assistido": false
+        },
+        {
+          "numero": 8,
+          "titulo": "Episódio 8",
+          "assistido": false
+        },
+        {
+          "numero": 9,
+          "titulo": "Episódio 9",
+          "assistido": false
+        },
+        {
+          "numero": 10,
+          "titulo": "Episódio 10",
+          "assistido": false
+        },
+        {
+          "numero": 11,
+          "titulo": "Episódio 11",
+          "assistido": false
+        },
+        {
+          "numero": 12,
+          "titulo": "Episódio 12",
+          "assistido": false
+        }
+      ]
+    }
+  ]
+}
