@@ -63,7 +63,7 @@ async function carregarSeries() {
 
         try {
 
-            const resposta = await fetch(`/data/series/${arquivo}`);
+            const resposta = await fetch(`/my-personal-library/arquivos/data/series/${arquivo}`);
 
             if (!resposta.ok) {
                 throw new Error(arquivo);
