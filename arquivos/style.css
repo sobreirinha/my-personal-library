@@ -9,26 +9,16 @@
 ========================== */
 
 :root{
-
     --background:#111111;
     --background2:#181818;
-
     --surface:#1B1B1B;
-
     --card:#242424;
-
     --primary:#FFD54F;
-
     --white:#FFFFFF;
-
     --gray:#B5B5B5;
-
     --border:#2F2F2F;
-
     --radius:20px;
-
     --shadow:0 10px 25px rgba(0,0,0,.35);
-
 }
 
 /* ==========================
@@ -36,17 +26,13 @@
 ========================== */
 
 *{
-
     margin:0;
     padding:0;
     box-sizing:border-box;
-
 }
 
 html{
-
     scroll-behavior:smooth;
-
 }
 
 body{
@@ -71,39 +57,33 @@ body{
 ========================== */
 
 header{
-
-    padding:20px;
-
+    position:sticky;
+    top:0;
+    z-index:100;
+    backdrop-filter:blur(2px);
+    background:rgba(17,17,17,.8);
 }
 
 header h1{
 
     color:var(--primary);
-
     font-size:30px;
-
     margin-bottom:20px;
-
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
 }
 
 #search{
 
     width:100%;
-
     height:50px;
-
     border:none;
-
     outline:none;
-
     border-radius:14px;
-
     background:var(--surface);
-
     color:white;
-
     padding:15px;
-
     font-size:16px;
 
 }
@@ -119,9 +99,7 @@ header h1{
 ========================== */
 
 main{
-
     padding:20px;
-
 }
 
 /* ==========================
@@ -129,21 +107,15 @@ main{
 ========================== */
 
 section{
-
     margin-bottom:40px;
-
 }
 
 .section-title{
-
     margin-bottom:18px;
-
 }
 
 .section-title h2{
-
     font-size:22px;
-
 }
 
 /* ==========================
@@ -151,25 +123,42 @@ section{
 ========================== */
 
 .carousel{
-
     display:flex;
-
+    flex-wrap: wrap;
+    justify-content: center;
     gap:18px;
-
     overflow-x:auto;
-
     scroll-snap-type:x mandatory;
-
     scroll-behavior:smooth;
-
-    padding-bottom:15px;
-
+    padding:15px;
 }
 
 .carousel::-webkit-scrollbar{
+    display:active;
+}
 
-    display:none;
+/* Para navegadores baseados em WebKit (Chrome, Safari, Edge, Opera) */
+.carousel::-webkit-scrollbar {
+    height: 8px; /* Altura da barra de rolagem horizontal */
+}
 
+.carousel::-webkit-scrollbar-track {
+    background: transparent; /* Deixa o fundo (trilho) transparente */
+}
+
+.carousel::-webkit-scrollbar-thumb {
+    background: rgba(70, 69, 69, 0.2); /* Cor da "puxadinha" da barra (preto com 20% de opacidade) */
+    border-radius: 4px; /* Deixa as bordas arredondadas */
+}
+
+/* Opcional: muda a cor quando o mouse passa por cima da barra */
+.carousel::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.4); 
+}
+
+.carousel .card {
+    flex: 0 0 250px; /* Impede que o card encolha e define uma largura (ex: 250px) */
+    scroll-snap-align: start; /* Faz o card "grudar" certinho ao rolar */
 }
 
 /* ==========================
@@ -177,39 +166,24 @@ section{
 ========================== */
 
 .card{
-
     flex:0 0 220px;
-
     scroll-snap-align:center;
-
     background:var(--card);
-
     border-radius:22px;
-
     overflow:hidden;
-
     cursor:pointer;
-
     transition:.35s;
-
     box-shadow:var(--shadow);
-
 }
 
 .card:hover{
-
     transform:scale(1.05);
-
 }
 
 .card img{
-
     width:100%;
-
     height:320px;
-
     object-fit:cover;
-
 }
 
 /* ==========================
@@ -217,65 +191,43 @@ section{
 ========================== */
 
 .card-body{
-
     padding:15px;
-
 }
 
 .card-title{
-
     font-size:18px;
-
     font-weight:bold;
-
     margin-bottom:10px;
-
 }
 
 .card-progress{
-
     font-size:14px;
-
     color:var(--gray);
-
     margin-bottom:10px;
 
 }
 
 .progress{
-
     width:100%;
-
     height:8px;
-
     background:#333;
-
     border-radius:50px;
-
-    overflow:hidden;
-
+    overflow:hidden; 
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .progress-fill{
-
     width:65%;
-
     height:100%;
-
     background:var(--primary);
-
 }
 
 .card-episode{
-
     margin-top:12px;
-
     font-size:14px;
-
     color:var(--primary);
-
     font-weight:bold;
-
 }
 
 /* ==========================
@@ -285,75 +237,171 @@ section{
 .modal{
 
     position:fixed;
-
     inset:0;
-
     background:rgba(0,0,0,.85);
-
     display:flex;
-
     justify-content:center;
-
-    align-items:center;
-
+    align-items:flex-start;
     padding:20px;
-
+    overflow-y:auto;
     z-index:999;
-
 }
 
+
 .hidden{
-
     display:none;
-
 }
 
 .modal-content{
 
     width:100%;
-
     max-width:700px;
-
+    max-height:90vh;
+    overflow-y:auto;
     background:var(--surface);
-
     border-radius:25px;
-
     padding:25px;
+}
 
-    position:relative;
+.modal-content::-webkit-scrollbar{
+    width:8px;
+}
 
+.modal-content::-webkit-scrollbar-thumb{
+    background:#555;
+    border-radius:20px;
 }
 
 #close-modal{
 
     position:absolute;
-
     top:15px;
-
     right:15px;
-
     width:40px;
-
     height:40px;
-
     border:none;
-
     border-radius:50%;
-
     cursor:pointer;
-
     font-size:18px;
-
     color:white;
-
     background:#303030;
 
 }
 
 #close-modal:hover{
-
     background:#444;
+}
 
+/* ==========================
+   HEADER TEMPORADA
+========================== */
+
+summary{
+    cursor:pointer;
+    font-size:18px;
+    font-weight:bold;
+}
+
+
+.temporada {
+    cursor: pointer;
+    margin-bottom: 12px;
+}
+.episodio{
+    padding:1px;
+    margin-bottom:5px;
+    background:#242424;
+    border-radius:10px;
+}
+
+.episodio{
+    margin-bottom:12px;
+}
+
+.episodio{
+    background:#1b1b1b;
+}
+
+/* ==========================
+   CHECKBOX EPISÓDIOS
+========================== */
+
+.episodio input[type="checkbox"]{
+    appearance:none;
+    -webkit-appearance:none;
+    width:22px;
+    height:22px;
+    border:2px solid #555;
+    border-radius:6px;
+    background:#1b1b1b;
+    cursor:pointer;
+    position:relative;
+    vertical-align:middle;
+    margin-right:10px;
+    transition:.25s;
+}
+
+
+/* Hover */
+
+.episodio input[type="checkbox"]:hover{
+    border-color:var(--primary);
+}
+
+
+/* Marcado */
+
+.episodio input[type="checkbox"]:checked{
+    background:var(--primary);
+    border-color:var(--primary);
+}
+
+
+/* Ícone de check */
+
+.episodio input[type="checkbox"]:checked::after{
+    content:"✓";
+    position:absolute;
+    color:#111;
+    font-size:16px;
+    font-weight:bold;
+    left:4px;
+    top:-1px;
+}
+
+.marcar-temporada{
+    background:var(--primary);
+    color:#111;
+    border:none;
+    padding:8px 14px;
+    border-radius:20px;
+    cursor:pointer;
+    font-weight:bold;
+    font-size:13px;
+    transition:.3s;
+    margin: 5px;
+}
+
+
+.marcar-temporada:hover{
+    transform:scale(1.05);
+    background:#ffe082;
+}
+
+/* ====================
+Buttons
+==================*/
+.finalizar-serie, .encerrar-serie, .continuar-serie, .assistir-mais-tarde{
+    cursor: pointer;
+    padding: 7px;
+    border: none;
+    border-radius: 20px;
+    margin: 2px;
+}
+
+.finalizar-serie:hover, .encerrar-serie:hover, .continuar-serie:hover, .assistir-mais-tarde:hover{
+    transform:scale(1.05);
+    background:#ffe082;
 }
 
 /* ==========================
@@ -381,7 +429,6 @@ section{
     }
 
     .card img{
-
         height:380px;
 
     }
