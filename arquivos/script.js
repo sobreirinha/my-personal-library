@@ -442,87 +442,103 @@ function abrirModal(serie){
 
 });
 
-document.querySelectorAll(".check-episodio")
-.forEach(check => {
+document
+    .querySelectorAll(".check-episodio")
+    .forEach(check => {
 
+        check.addEventListener("change", async () => {
 
-    check.addEventListener("change", () => {
+            const temporadaNumero =
+                Number(check.dataset.temporada);
 
+            const episodioNumero =
+                Number(check.dataset.episodio);
 
-        const temporadaNumero =
-        Number(check.dataset.temporada);
+            const temporada =
+                serie.temporadas.find(
+                    t => t.numero === temporadaNumero
+                );
 
+            if (!temporada) {
+                console.error("Temporada não encontrada");
+                return;
+            }
 
+            const episodio =
+                temporada.episodios.find(
+                    e => e.numero === episodioNumero
+                );
 
-        const episodioNumero =
-        Number(check.dataset.episodio);
+            if (!episodio) {
+                console.error("Episódio não encontrado");
+                return;
+            }
 
+            // Atualiza o estado local
+            episodio.assistido = check.checked;
 
+            try {
 
-        const temporada =
-        serie.temporadas.find(
-            t => t.numero === temporadaNumero
-        );
+                const resposta = await fetch(
+                    "/salvar-episodio",
+                    {
+                        method: "POST",
 
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
 
+                        body: JSON.stringify({
 
-        const episodio =
-        temporada.episodios.find(
-            e => e.numero === episodioNumero
-        );
+                            arquivo: serie.arquivo,
 
+                            temporada: temporadaNumero,
 
-check.addEventListener("change", () => {
+                            episodio: episodioNumero,
 
+                            assistido: check.checked
 
-    episodio.assistido = check.checked;
+                        })
+                    }
+                );
 
+                if (!resposta.ok) {
+                    throw new Error(
+                        "Erro ao salvar episódio"
+                    );
+                }
 
+                const dados =
+                    await resposta.json();
 
-    fetch("/salvar-episodio", {
+                console.log(
+                    "Episódio salvo:",
+                    dados
+                );
 
-        method:"POST",
+                // Atualiza o card somente depois
+                // que o backend confirmou
+                atualizarCard(serie);
 
-        headers:{
-            "Content-Type":"application/json"
-        },
+            } catch (erro) {
 
-        body:JSON.stringify({
+                console.error(
+                    "Erro ao salvar episódio:",
+                    erro
+                );
 
-            arquivo: serie.arquivo,
+                // Se o backend falhou,
+                // desfaz a alteração visual
+                check.checked = !check.checked;
 
-            temporada: temporadaNumero,
+                episodio.assistido =
+                    check.checked;
 
-            episodio: episodioNumero,
+            }
 
-            assistido: check.checked
-
-        })
-
-    })
-
-    .then(res => res.json())
-
-    .then(data => {
-
-        console.log(
-            "Salvo:",
-            data
-        );
-
-    })
-
-    .catch(err => {
-
-        console.error(
-            "Erro ao salvar:",
-            err
-        );
+        });
 
     });
-
-
-});
 
     atualizarCard(serie);
 
